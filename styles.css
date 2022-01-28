@@ -1,3 +1,7 @@
-ol {
-	list-style-type: lower-greek;
+#elem{
+	border-color: blue;
+	width: 300px;
+	height: 170px;
+	border-style: ridge;
+	border-width: 5.5px;
 }
