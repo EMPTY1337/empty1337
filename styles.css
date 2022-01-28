@@ -1,3 +1,8 @@
-ol {
-	list-style-type: lower-greek;
+
+#elem {
+	width: 300px;
+	height: 100px;
+	color: white;
+	background-color: lightgreen; 
+	text-align:center;
 }
