@@ -1,5 +1,7 @@
-.parent{
-    text-align: center;
-    padding: 10px ;
-    border: 1px solid red;
+ul i{
+    color: red;
+}
+p i{
+    color: green;
+    
 }
