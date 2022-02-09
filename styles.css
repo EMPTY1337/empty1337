@@ -1,21 +1,25 @@
+
 #elem1 {
 	width: 100px;
 	height: 100px;
-	border: 1px solid red;
+	margin-bottom: 20px;
+	background-color: #FF8888;
 }
 #elem2 {
-	position: absolute;
-	top: 150px;
-	left: 150px;  
+	position: relative;
+	left: 60px;
+	top:-50px;
 	width: 100px;
 	height: 100px;
-	border: 1px solid green;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
 }
 #elem3 {
-	position: absolute;
-	top: 300px;
-	left: 300px;
+	position: relative;
+	left: 120px;
+	top: -100px;
 	width: 100px;
 	height: 100px;
-	border: 1px solid blue;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
 }
